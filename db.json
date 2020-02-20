@@ -10,6 +10,7 @@
   ],
   "profile": {
     "userName": "ashis",
-    "password": "ashis"
+    "password": "ashis",
+    "hasLogin": true
   }
 }
